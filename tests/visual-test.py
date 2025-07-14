@@ -16,9 +16,9 @@ model_names = [
     "Facenet",
     "Facenet512",
     "OpenFace",
-    "DeepFace",
+    # "DeepFace",
     "DeepID",
-    "Dlib",
+    # "Dlib",
     "ArcFace",
     "SFace",
     "GhostFaceNet"

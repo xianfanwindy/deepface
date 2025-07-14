@@ -18,3 +18,9 @@ benchmarks/outputs
 benchmarks/dataset
 benchmarks/lfwe
 venv
+dataset/
+database/
+*.jpg
+*.jpeg
+*.png
+*.gif
